@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/s23N3BNzDD3rSdfgnT9jlrP3B2WGWLkV4VVjGReE8g2iXnQuBNCsFN+LqParlqAlxGn16Yyu15GHu3wKAexQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rangbar.a\\source\\repos\\KMeansWinForm\\KMeansWinForm\\KMeansWinForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rangbar.a\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\rangbar.a\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
